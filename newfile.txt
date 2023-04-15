@@ -3,3 +3,6 @@ activar_repo = .\workspace\Scripts\activate
 
 luis, luis@limon.com, 1234
 testuser, testuser@limon.com, 123456test
+
+unitest
+python manage.py test tests.test-models
